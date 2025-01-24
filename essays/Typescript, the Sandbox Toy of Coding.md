@@ -1,3 +1,4 @@
+---
 layout: essay
 type: essay
 title: "Typescript: The Sandbox Toy for Coders"
@@ -5,7 +6,8 @@ title: "Typescript: The Sandbox Toy for Coders"
 date: 2025-01-23
 published: true
 labels:
-    - Computer Science
+  - Computer Science
+---
 
 As of the moment of writing this essay, I am still very new to Typescript as a language. This only serves to make my belief even more evident, that Typescript is an exceptionally easy language to grasp without prior education or experience. It cuts away at a lot of the specifics in other languages that may hinder newer users' progress, like allowing for types like "number" instead of int, float, double, etc. This allows for programmers to focus on the logic of their code rather than its specific wording.
 
