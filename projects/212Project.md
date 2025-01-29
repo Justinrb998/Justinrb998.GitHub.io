@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/CodeImage.png
 title: "ICS212 C and C++ Coding Project"
 date: 2024
 published: true
