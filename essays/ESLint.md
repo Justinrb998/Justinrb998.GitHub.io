@@ -10,7 +10,7 @@ labels:
   - Bug-Fixing
 ---
 
-https://github.com/Justinrb998/Justinrb998.GitHub.io/blob/main/img/Error.jfif
+<img width="100px" class="rounded float-start pe-4" src="https://github.com/Justinrb998/Justinrb998.GitHub.io/blob/main/img/Error.jfif">
 
 I've only been using ESLint for a week now, and even in this short time, I feel as though it is a promising tool for my coding journey. One of its standout features is its ability to catch mistakes early on. In just a few coding exercises, I’ve had ESLint find many syntax errors and potential bugs. This early feedback has given me a boost in confidence, especially as I'm still getting comfortable with writing in TypeScript.
 
