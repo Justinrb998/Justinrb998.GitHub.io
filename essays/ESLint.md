@@ -10,6 +10,8 @@ labels:
   - Bug-Fixing
 ---
 
+https://github.com/Justinrb998/Justinrb998.GitHub.io/blob/main/img/Error.jfif
+
 I've only been using ESLint for a week now, and even in this short time, I feel as though it is a promising tool for my coding journey. One of its standout features is its ability to catch mistakes early on. In just a few coding exercises, I’ve had ESLint find many syntax errors and potential bugs. This early feedback has given me a boost in confidence, especially as I'm still getting comfortable with writing in TypeScript.
 
 Another benefit is the way ESLint enforces a consistent coding style. Having a set of rules keeps my code clean and uniform, and this consistency not only makes it easier for me to read my code but also prepares me better for working in team environments, where coding standards are crucial. I appreciate that these rules are customizable, which means I can gradually create my coding style while still keeping to good practices.
