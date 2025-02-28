@@ -29,6 +29,6 @@ labels:
 
   In addition to this, the task of learning what is essentially a language inside of a language is a bit daunting for newcomers. There poses a question to be asked: Is the time required to learn a new language worth the time saved by using it? 
 
-## 
+## Concluding Communications
 
   The answer to that question, in my opinion, is YES. The time spent learning a UI framework like Bootstrap-5 is an investment in your future self being a much more effecient coder. Not only can Bootstrap-5 create amazing websites within its own system, but it also can help you learn certain aspects of a webpage that you might not otherwise consider. Using Bootstap-5 is a good way for newcomers to learn the components that make up a website, and it has the complexity required to be capable of making unique and creative websites as you become a more established developer.
