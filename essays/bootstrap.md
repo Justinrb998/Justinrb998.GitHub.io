@@ -27,9 +27,8 @@ labels:
   
 
 <div style="text-align: center;">
-  <img src="../img/BootstrapWebsites.jpg" width="1000px" style="margin-top: 20px; margin-bottom: 20px;" alt="Image Broken">
+  <img src="../img/BootstrapWebsites.jpg" style="margin-top: 20px; margin-bottom: 20px; width: 100%; max-width: 1000px; height: auto;" alt="Image Broken">
 </div>
-
 
   In addition to this, the task of learning what is essentially a language inside of a language is a bit daunting for newcomers. There poses a question to be asked: Is the time required to learn a new language worth the time saved by using it? 
 
