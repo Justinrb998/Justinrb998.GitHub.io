@@ -27,7 +27,7 @@ labels:
   
 
 <div style="text-align: center;">
-  <img src="../img/BootstrapWebsites.jpg" width="500px" style="margin-top: 20px; margin-bottom: 20px;" alt="Similar Websites">
+  <img src="../img/BootstrapWebsites.jpg" width="1000px" style="margin-top: 20px; margin-bottom: 20px;" alt="Image Broken">
 </div>
 
 
