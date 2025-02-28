@@ -25,7 +25,7 @@ labels:
 
   Of course, Bootstrap was not created as a perfect technology, as evident by it already being on its 5th rendition. Bootstrap-5's customization tools, for all the great aid that they provide, are also a limiting factor when it comes to being unique. Although there are exceptions, many websites that utilize Bootstrap-5 have similar designs and format:
 
-<img src="../img/BootstrapWebsites.jpeg" alt="Similar Websites">
+<img src="../img/BootstrapWebsites.jpeg" width="100px" height="100px" alt="Similar Websites">
 
   In addition to this, the task of learning what is essentially a language inside of a language is a bit daunting for newcomers. There poses a question to be asked: Is the time required to learn a new language worth the time saved by using it? 
 
