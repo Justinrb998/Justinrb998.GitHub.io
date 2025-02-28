@@ -17,4 +17,6 @@ labels:
 
 ## The Benefits of Bilingualism
 
-  If a programmer must dedicate time and effort to learn a framework's terminology, then they would expect to be rewarded for doing so. I believe that in the case of Bootstrap-5, there are certainly great boons to be had. Bootstrap has
+  If a programmer must dedicate time and effort to learn a framework's terminology, then they would expect to be rewarded for doing so. I believe that in the case of Bootstrap-5, there are certainly great boons to be had. Bootstrap has many "components", such as buttons, dropdown menus, navigation bars, footers, etc. These are things that you could make in an html file, but many of which might take considerable amounts of code to do so without Bootstrap. Bootstrap-5 also comes with an icon library, allowing coders to easily implement common icons in their webpage，such as social media site logos, page navigation icons or buttons you might find on nearly every digital shopfront on the internet.
+
+The amount of code 
