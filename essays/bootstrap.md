@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Bootstrap-5, a Complex Simplification"
+title: "Bootstrap-5, a Sophisticated Simplification"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-27
 published: false
