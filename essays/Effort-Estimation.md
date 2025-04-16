@@ -10,6 +10,12 @@ labels:
   - Project Oversight
 ---
 
+<div style="text-align: center;">
+  <img src="../img/estimation.jpg" style="margin-top: 20px; margin-bottom: 20px; width: 35%; max-width: 1000px; height: auto; border: 2px solid black;" alt="Image Broken">
+</div>
+
+# Effort Estimations
+
 When conducting a group project, it is important to manage time accordingly so that nobody is left behind, but also so that work is done before deadlines are due. Some deadlines are not as obvious, since things like merging different members' works and deploying a website can take greatly varying times. As such, it is necessary to know not just how long things took to have done, but also how long things will take to do. Since I do not believe any of my team members are capable of peering into the future, we must settle for estimation.
 
 ## Method of Estimating Effort
