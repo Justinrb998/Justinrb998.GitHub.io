@@ -20,8 +20,8 @@ I worked on creating the uploads and gallery pages, allowing users to both share
 
 Creating this website helped me learn more about working with databases, designing webpages for multiple window sizes, and the general flow between back-end vs front-end code. Here is a link to a more extensive overview of my project:
 
-https://arthub-final-project.github.io/arthub.github.io
+[https://arthub-final-project.github.io/arthub.github.io](https://arthub-final-project.github.io/arthub.github.io)
 
 And here's a link to the source code:
 
-https://github.com/arthub-final-project/arthub-314
+[https://github.com/arthub-final-project/arthub-314](https://github.com/arthub-final-project/arthub-314)
