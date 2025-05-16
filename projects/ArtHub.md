@@ -7,7 +7,7 @@ date: 2025
 published: true
 labels:
   - Website Design
-summary: "A website created as part of a group project"
+summary: "A website created for creativity"
 ---
 
 <div style="text-align: center;">
