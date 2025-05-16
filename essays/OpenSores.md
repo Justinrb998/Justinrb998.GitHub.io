@@ -10,7 +10,6 @@ labels:
   - Coding Standards
   - Agile
 ---
-# Open Source Opens Doors
 
   
   In the modern era, software development is becoming ever increasingly accessible, and as such many large companies no longer have such a monopoly on coding prowess. Groups of individual coders can both provide companies with a cheaper alternative to full time developers, but also work together to form projects that rival those of the professionals. This can be achieved through three concepts: open source development, coding standards, and Agile project management.
