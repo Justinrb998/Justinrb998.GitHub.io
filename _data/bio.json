@@ -28,6 +28,10 @@
     {
       "name": "Toolsets/OS",
       "keywords": [  "Godot", "Unix", "GitHub" ]
+    },
+    {
+      "name": "Specializations",
+      "keywords": [  "Game Development", "Website Design", "Software Design" ]
     }
   ],
   "education": [
