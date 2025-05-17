@@ -4,7 +4,7 @@ type: essay
 title: "ESLint, the Terror of Errors"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-13
-published: false
+published: true
 labels:
   - Programming
   - Bug-Fixing
